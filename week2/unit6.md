@@ -89,7 +89,7 @@ Now, create the service binding **`ZUI_RAP_TRAVEL_O2_####`** (where `####` is yo
 
 2.	Maintain **`ZUI_RAP_TRAVEL_O2_####`**  as name and a meaningful description (e.g. _`OData V2 UI service for SAP Fiori Travel App`_).     Select **`OData V2 - UI`** as Binding Type and choose **Next >** to continue.  
      
-    >Note: At the creation time of this document, only OData V2 is currently supported. However, OData V4 is planned in the near future.
+    >Note: At the creation time of this document, only OData V2 was supported. However, OData V4 is planned in the near future.
     >For more information, check out the [ABAP platform road map](https://roadmaps.sap.com/board?range=CURRENT-LAST&PRODUCT=6EAE8B28C5D91EDA9FF40F3CC2DBE0E6&PRODUCT=73555000100800001164).  
     
     ![Create Service Binding](images/w2u6_02_02.png)
@@ -104,7 +104,7 @@ Now, create the service binding **`ZUI_RAP_TRAVEL_O2_####`** (where `####` is yo
 
 4. Save ![save icon](images/adt_save.png) and activate ![activate icon](images/adt_activate.png) the service binding.	
 
-5. Click on **`Activate`** - or **`Publish`** depending on your ABAP release - in the **Service Version Details** area to activate the Local Service Endpoint. This may take few seconds.
+5. Click on **`Publish`** - or **`Activate`** depending on your ADT version - in the **Service Version Details** area to activate the Local Service Endpoint. This may take few seconds.
  
     ![Create Service Binding](images/w2u6_02_05.png)
 
